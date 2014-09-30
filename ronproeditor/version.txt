@@ -2,10 +2,11 @@
 #はコメント行
 #v はバージョン
 #d は削除するファイル（フォルダ）
+#version番号は数字のみ利用すること
 
 # week14
 # +cocoviewer +checopro ベータ版
-v 2.26.b RonproEditor-2.26.b-201401221504.zip
+v 2.26.0 RonproEditor-2.26.0-201401221504.zip
 
 # week13
 # -cocoviewer
