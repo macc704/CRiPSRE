@@ -1,0 +1,162 @@
+#設定ファイル
+#はコメント行
+#v はバージョン
+#d は削除するファイル（フォルダ）
+
+# week14
+# +cocoviewer +checopro ベータ版
+v 2.26.b RonproEditor-2.26.b-201401221504.zip
+
+# week13
+# -cocoviewer
+v 2.25.0 RonproEditor-2.25.0-201401080033.zip
+
+# week12 
+# cocoviewer
+v 2.23.1 RonproEditor-2.23.1-201312171209.zip
+v 2.23.0 RonproEditor-2.23.0-201312171006.zip
+d lib/blib1525.jar
+
+# week10 
+v 2.21.0 RonproEditor-2.21.0-201312041109.zip
+
+# week5 bugfix
+v 2.20.0 RonproEditor-2.20.0-201310301618.zip
+
+# week4
+v 2.19.1 RonproEditor-2.19.1-201310221448.zip
+
+# week3
+v 2.19.0 RonproEditor-2.19.0-201310160911.zip
+
+#for 2013 week1
+v 2.18.0 RonproEditor-2.18.0-201310021230.zip
+
+#2013.04.13 for Obpro2013 mac
+v 2.16.9 RonproEditor-2.16.9-201304181422.zip
+v 2.16.8 RonproEditor-2.16.8-201304131124.zip
+v 2.16.7 RonproEditor-2.16.7-201304131055.zip
+v 2.16.6 RonproEditor-2.16.6-201304131045.zip
+
+#2013.03.14 for CE119
+v 2.16.5 RonproEditor-2.16.5-201303140816.zip
+
+#2013.01.22 14週目
+v 2.16.4 RonproEditor-2.16.4-201301231918.zip
+v 2.16.3 RonproEditor-2.16.3-201301221723.zip
+
+#2013.01.08 13週目　デバッガ
+v 2.16.2 RonproEditor-2.16.2-201301151730.zip
+v 2.16.1 RonproEditor-2.16.1-201301151718.zip
+d lib/blib1524.jar
+v 2.16.0 RonproEditor-2.16.0-201301151108.zip
+
+v 2.15.6 RonproEditor-2.15.6-201301101512.zip
+
+#2013.01.08 12週目　デバッガ
+v 2.15.5 RonproEditor-2.15.5-201301092108.zip
+v 2.15.4 RonproEditor-2.15.4-201301092038.zip
+v 2.15.3 RonproEditor-2.15.3-201301092031.zip
+v 2.15.2 RonproEditor-2.15.2-201301091822.zip
+v 2.15.1 RonproEditor-2.15.1-201301091702.zip
+v 2.15.0 RonproEditor-2.15.0-201301091531.zip
+d lib/blib1514.jar
+v 2.14.0 RonproEditor-2.14.0-201301091141.zip
+v 2.13.1 RonproEditor-2.13.1-201301081550.zip
+v 2.13.0 RonproEditor-2.13.0-201301081308.zip
+
+#2012.12.4 for 9週目
+v 2.11.11 RonproEditor-2.11.11-201212041300.zip
+
+#2012.11.23 for 8週目
+v 2.11.9 RonproEditor-2.11.9-201211290857.zip
+v 2.11.8 RonproEditor-2.11.8-201211271327.zip
+v 2.11.7 RonproEditor-2.11.7-201211242337.zip
+v 2.11.6 RonproEditor-2.11.6-201211242227.zip
+v 2.10.16 RonproEditor-2.10.16-201211232233.zip
+
+#2012.11.15 7週目 授業中
+v 2.10.13 RonproEditor-2.10.13-201211151039.zip
+v 2.10.12 RonproEditor-2.10.12-201211151026.zip
+v 2.10.11 RonproEditor-2.10.11-201211151008.zip
+
+#2012.11.13 for 7週目
+v 2.10.10 RonproEditor-2.10.10-201211141739.zip
+v 2.10.9 RonproEditor-2.10.9-201211141726.zip
+v 2.10.7 RonproEditor-2.10.7-201211141256.zip
+v 2.10.6 RonproEditor-2.10.6-201211141246.zip
+v 2.10.3 RonproEditor-2.10.3-201211140953.zip
+v 2.10.2 RonproEditor-2.10.2-201211131545.zip
+
+#2012.11.8 for 6週目　授業中
+v 2.9.7 RonproEditor-2.9.7-201211081121.zip
+
+#2012.11.8 for 6週目（オブジェクト指向）
+v 2.9.6 RonproEditor-2.9.6-201211072003.zip
+v 2.9.5 RonproEditor-2.9.5-201211071905.zip
+d lib/blib1513.jar
+v 2.9.4 RonproEditor-2.9.4-201211071544.zip
+v 2.9.2 RonproEditor-2.9.2-201211070006.zip
+v 2.9.1 RonproEditor-2.9.1-201211061733.zip
+d lib/blib159.jar
+v 2.9.0 RonproEditor-2.9.0-201211061558.zip
+
+#2012.10.29 for 5週目 (オブジェクト指向)
+v 2.6.2 RonproEditor-2.6.2-201210301948.zip
+v 2.6.1 RonproEditor-2.6.1-201210291748.zip
+
+#2012.10.22 for 4週目 (繰り返し)
+v 2.5.3 RonproEditor-2.5.3-201210241650.zip
+v 2.5.2 RonproEditor-2.5.2-201210232002.zip
+v 2.5.1 RonproEditor-2.5.1-201210231608.zip
+v 2.4.7 RonproEditor-2.4.7-201210211443.zip
+v 2.4.5 RonproEditor-2.4.5-201210211149.zip
+v 2.4.4 RonproEditor-2.4.4-201210211000.zip
+
+#2012.10.18 3週目　授業中バグ修正
+v 2.4.2 RonproEditor-2.4.2-201210181317.zip
+
+#2012.10.15 3週目　（if文）
+v 2.4.1 RonproEditor-2.4.1-201210162053.zip
+v 2.4.0 RonproEditor-2.4.0-201210161943.zip
+v 2.3.4 RonproEditor-2.3.4-201210161414.zip
+
+#2012.10.10 2週目　（基本）
+v 2.3.1 RonproEditor-2.3.1-201210101608.zip
+v 2.3.0 RonproEditor-2.3.0-201210101316.zip
+v 2.2.16 RonproEditor-2.2.16-201210101206.zip
+
+#2012.10.09
+v 2.2.14 RonproEditor-2.2.14-201210091608.zip
+
+#2012.10.03 1週目 初回インストールバージョン
+v 2.2.11 RonproEditor-2.2.11-201210032344.zip
+v 2.2.10 RonproEditor-2.2.10-201210032132.zip
+v 2.2.9 RonproEditor-2.2.9-201210031714.zip
+v 2.2.8 RonproEditor-2.2.8-201210031658.zip
+v 2.2.7 RonproEditor-2.2.7-201210031404.zip
+v 2.2.6 RonproEditor-2.2.6-201210031345.zip
+v 2.2.5 RonproEditor-2.2.5-201210031045.zip
+v 2.2.4 RonproEditor-2.2.4-201210031030.zip
+
+#2012.10.02
+v 2.2.3 RonproEditor-2.2.3.zip
+
+#2012.09.28
+v 2.2.2 RonproEditor-2.2.2-201209281726.zip
+
+#以下テストコード
+#201202042325
+#v 1.3.4 a.zip
+#d MyProjects
+
+#201202042325
+#v 1.3.3 a.zip
+
+#201202042325
+#v 1.3.2 a.zip
+#d a/b
+
+#201110242337
+#v 1.2.8 b.zip
+
