@@ -5,7 +5,7 @@
 #version番号は数字のみ利用すること
 
 # 2014 week1
-v 2.27.0 RonproEditor-2.26.0-201401221504.zip
+v 2.27.0 RonproEditor-2.27.0-201409291532.zip
 
 # week14
 # +cocoviewer +checopro ベータ版
