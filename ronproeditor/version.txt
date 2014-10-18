@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week4 fixed console.
+v 2.27.1 RonproEditor-2.27.2-201410181926.zip
+
 # 2014 week3 fixed light bugs
 v 2.27.1 RonproEditor-2.27.1-201410112015.zip
 
