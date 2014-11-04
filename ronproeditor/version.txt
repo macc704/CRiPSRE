@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week4 fix context menu, scope check animation, method call arrow paint process.
+v 2.27.4 RonproEditor-2.27.4-201411041821.zip
+
 # 2014 week4 fix context menu.
 v 2.27.3 RonproEditor-2.27.3-201410291330.zip
 
