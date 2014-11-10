@@ -6,14 +6,9 @@
 
 
 
-# 2014 week7 test.
-
-v 2.27.4 RonproEditor-2.27.4-201411102141.zip
-
-
 # 2014 week7 fix block to java conversion bug.
 
-v 2.27.4 RonproEditor-2.27.4-201411101605.zip
+v 2.27.5 RonproEditor-2.27.5-201411102200.zip
 
 
 
