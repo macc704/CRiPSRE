@@ -1,26 +1,50 @@
-#設定ファイル
+﻿#設定ファイル
 #はコメント行
 #v はバージョン
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
-# 2014 week4 fix block to java conversion bug.
+
+
+# 2014 week7 test.
+
+v 2.27.4 RonproEditor-2.27.4-201411102141.zip
+
+
+# 2014 week7 fix block to java conversion bug.
+
 v 2.27.4 RonproEditor-2.27.4-201411101605.zip
 
-# 2014 week4 fix method arrow process.
+
+
+# 2014 week7 fix method arrow process.
+
 v 2.27.4 RonproEditor-2.27.4-201411071730.zip
 
+
+
 # 2014 week6 fix context menu, scope check animation, method call arrow paint process.
+
 v 2.27.4 RonproEditor-2.27.4-201411041821.zip
 
+
+
 # 2014 week5 fix context menu.
+
 v 2.27.3 RonproEditor-2.27.3-201410291330.zip
 
+
+
 # 2014 week4 hide text,image, and other class method blocks. fixed any bugs.
+
 v 2.27.3 RonproEditor-2.27.3-201410241909.zip
+
+
 
 # 2014 week4 fixed console.
 v 2.27.2 RonproEditor-2.27.2-201410181926.zip
+
+
 
 # 2014 week3 fixed light bugs
 v 2.27.1 RonproEditor-2.27.1-201410112015.zip
