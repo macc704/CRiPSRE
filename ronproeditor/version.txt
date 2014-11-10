@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week4 fix block to java conversion bug.
+v 2.27.4 RonproEditor-2.27.4-201411101605.zip
+
 # 2014 week4 fix method arrow process.
 v 2.27.4 RonproEditor-2.27.4-201411071730.zip
 
