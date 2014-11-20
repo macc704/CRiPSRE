@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week9 fix arrow and pass test.
+v 2.27.7 RonproEditor-2.27.7-201411210138.zip
+
 # 2014 week8 fix method arrow drawing process. And dispose double type blocks increment menu at ContextMenu.
 v 2.27.6 RonproEditor-2.27.6-201411191217.zip
 
