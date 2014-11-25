@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week10 method arrow release.
+v 2.28.0 RonproEditor-2.28.0-201411252026.zip
+
 # 2014 week9 fix arrow and pass test.
 v 2.27.7 RonproEditor-2.27.7-201411210138.zip
 
