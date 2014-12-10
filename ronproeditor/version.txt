@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week11 fix arrows to correspond recursion method and any method definition bug.
+v 2.28.3 RonproEditor-2.28.3-201412101756.zip
+
 # 2014 week10 method arrow fixed.
 v 2.28.2 RonproEditor-2.28.2-201412040940.zip
 
