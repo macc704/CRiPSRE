@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week13 fix Pull Log of CheCoPro.
+v 2.29.1 RonproEditor-2.29.1-201501142239.zip
+
 # 2014 week13 CheCoPro release.
 v 2.29.0 RonproEditor-2.29.0-201501142209.zip
 
