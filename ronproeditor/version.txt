@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2014 week12 fix arrows to correspond recursion method and any method definition bug.
+v 2.30.2 RonproEditor-2.30.2-20150930180804.zip
+
 # 2014 week13 fix Pull Log of CheCoPro.
 v 2.29.1 RonproEditor-2.29.1-201501142239.zip
 
