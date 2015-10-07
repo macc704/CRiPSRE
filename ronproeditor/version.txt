@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2015 week2 2015 add block screenshot taker.
+v 2.31.0 RonproEditor-2.31.0-201510071658.zip
+
 # 2015 week1 2015 init version.
 v 2.30.2 RonproEditor-2.30.2-201510021657.zip
 
