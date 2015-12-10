@@ -5,6 +5,9 @@
 #version番号は数字のみ利用すること
 
 # 2015 week 2015 Fix coco and MeRV.
+v 2.31.3 RonproEditor-2.31.3-201512101020.zip
+
+# 2015 week 2015 Fix coco and MeRV.
 v 2.31.2 RonproEditor-2.31.2-201512100505.zip
 
 # 2015 week 2015 Fix dynamic block language declaration file creation.
