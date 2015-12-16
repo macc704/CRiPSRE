@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2015 week11 fix CheCoPro for winter exercise.
+v 2.31.4 RonproEditor-2.31.4-201512161724.zip
+
 # 2015 week 2015 Fix coco and MeRV.
 v 2.31.3 RonproEditor-2.31.3-201512101020.zip
 
