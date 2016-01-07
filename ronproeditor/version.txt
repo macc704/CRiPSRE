@@ -5,7 +5,7 @@
 #version番号は数字のみ利用すること
 
 # 2015 week11 fix block convertion bugfix.
-v 2.31.6 RonproEditor-2.31.6-201601070918.zip
+v 2.31.7 RonproEditor-2.31.7-201601070955.zip
 
 # 2015 week11 fix CheCoPro bugfix.
 v 2.31.5 RonproEditor-2.31.5-201512171142.zip
