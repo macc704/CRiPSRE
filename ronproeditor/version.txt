@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2015 week13 update CheCoPro for prog2015final.
+v 2.31.8 RonproEditor-2.31.8-201601192035.zip
+
 # 2015 week11 fix block convertion bugfix.
 v 2.31.7 RonproEditor-2.31.7-201601071023.zip
 
