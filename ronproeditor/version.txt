@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2016 week2 release CompileErrorLog recorder.
+v 2.31.9 RonproEditor-2.31.9-201610121412.zip
+
 # 2015 week13 update CheCoPro for prog2015final.
 v 2.31.8 RonproEditor-2.31.8-201601192035.zip
 
