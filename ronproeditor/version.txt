@@ -4,6 +4,9 @@
 #d は削除するファイル（フォルダ）
 #version番号は数字のみ利用すること
 
+# 2016 week2 fix console output bugfix.
+v 2.31.10 RonproEditor-2.31.10-201610131046.zip
+
 # 2016 week2 release CompileErrorLog recorder.
 v 2.31.9 RonproEditor-2.31.9-201610121412.zip
 
